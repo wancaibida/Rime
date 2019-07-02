@@ -26,3 +26,8 @@ patch:
   "app_options/com.runningwithcrayons.Alfred-3/ascii_mode": true
   "app_options/com.googlecode.iterm2/ascii_mode": true
   "app_options/com.jetbrains.intellij/ascii_mode": true
+  "app_options/com.apple.finder/ascii_mode": true
+  "app_options/com.apple.Terminal/ascii_mode": true
+  "app_options/com.microsoft.VSCode/ascii_mode": true
+  "app_options/com.wiheads.paste/ascii_mode": true
+  "app_options/com.google.Chrome/ascii_mode": false
